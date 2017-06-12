@@ -11,6 +11,10 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+  <option name="HTML_ALIGN_TEXT" value="true" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,basefont,bdo,big,br,cite,cite,code,dfn,font,kbd,q,s,samp,strike,sub,sup,textarea,tt,u,var" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
