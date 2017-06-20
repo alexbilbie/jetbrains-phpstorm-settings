@@ -4,11 +4,6 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/bin/php" id="db619ed4-051e-4b2b-a08d-bc7d1e1e1f6b" name="PHP" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
