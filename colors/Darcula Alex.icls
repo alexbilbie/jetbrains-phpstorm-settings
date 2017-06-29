@@ -36,5 +36,11 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
+    <option name="LESS_IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
   </attributes>
 </scheme>
