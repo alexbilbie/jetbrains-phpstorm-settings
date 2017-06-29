@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="textmate" />
       <mapping pattern="OCamlMakefile" type="textmate" />
       <mapping pattern="Makefile" type="textmate" />
