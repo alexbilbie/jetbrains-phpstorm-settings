@@ -1,16 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping pattern="GNUmakefile" type="Makefile" />
+      <removed_mapping pattern="Makefile" type="Makefile" />
+      <removed_mapping pattern="makefile" type="Makefile" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="textmate" />
-      <mapping pattern="OCamlMakefile" type="textmate" />
-      <mapping pattern="Makefile" type="textmate" />
-      <mapping pattern="gvy" type="textmate" />
-      <mapping pattern="GNUmakefile" type="textmate" />
       <mapping pattern="makefile" type="textmate" />
+      <mapping pattern="Makefile" type="textmate" />
       <mapping pattern="groovy" type="textmate" />
+      <mapping pattern="Jenkinsfile" type="textmate" />
+      <mapping pattern="GNUmakefile" type="textmate" />
+      <mapping pattern="gvy" type="textmate" />
+      <mapping pattern="OCamlMakefile" type="textmate" />
       <mapping ext="gvy" type="textmate" />
+      <mapping ext="gnumakefile" type="textmate" />
+      <mapping ext="jenkinsfile" type="textmate" />
       <mapping ext="groovy" type="textmate" />
+      <mapping ext="ocamlmakefile" type="textmate" />
       <mapping ext="makefile" type="textmate" />
     </extensionMap>
   </component>
