@@ -1,9 +1,5 @@
 <application>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration />
-    </phpcs_settings>
-  </component>
+  <component name="PhpAutoImport" prepend_global_functions_and_constants="true" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/local/opt/php71/bin/php" id="e456682a-f6cc-47e0-b05e-01d728cc734d" name="PHP" debugger_id="php.debugger.XDebug" />
