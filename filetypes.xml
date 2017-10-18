@@ -13,10 +13,7 @@
       <mapping pattern="gvy" type="textmate" />
       <mapping pattern="OCamlMakefile" type="textmate" />
       <mapping ext="gvy" type="textmate" />
-      <mapping ext="gnumakefile" type="textmate" />
-      <mapping ext="jenkinsfile" type="textmate" />
       <mapping ext="groovy" type="textmate" />
-      <mapping ext="ocamlmakefile" type="textmate" />
       <mapping ext="makefile" type="textmate" />
     </extensionMap>
   </component>
