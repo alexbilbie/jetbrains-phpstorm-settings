@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="PHP">
         <added pattern="\sprintf(format,args,_)" />
+        <added pattern="\Illuminate\Database\Query\Builder.join(table,one,operator,two,type,where)" />
       </blacklist>
     </blacklists>
   </component>
