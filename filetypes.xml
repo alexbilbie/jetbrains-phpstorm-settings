@@ -1,12 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern="GNUmakefile" type="Makefile" />
-      <removed_mapping pattern="Makefile" type="Makefile" />
-      <removed_mapping pattern="makefile" type="Makefile" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
-      <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
